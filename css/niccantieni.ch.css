@@ -1,2 +1,8 @@
-@font-face { font-family: 'jt-mono';
-    src: url('pfad/zu/meinerschrift.ttf') format('truetype'); }
+h1 {
+    font-family: jt-mono-light-italic;
+}
+
+html {
+    background-color: #1E1F1C;
+    color: white;
+}
